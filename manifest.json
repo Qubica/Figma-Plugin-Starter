@@ -1,0 +1,6 @@
+{
+    "name": "Export to JSON",
+    "api": "1.0.0",
+    "main": "dist/code.js",
+    "ui": "dist/ui.html"
+}

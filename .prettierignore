@@ -1,0 +1,76 @@
+=======
+.npm
+.prettierrc.json
+csscomb.json
+package-lock.json
+package.json
+readme.md
+next.config.js
+.eslintrc.json
+.editorconfig
+
+#### Builds
+/public/*
+/out/*
+.next/*
+
+#### Node modules
+node_modules
+npm-debug.log
+
+#### Local only files
+*.js.map
+vendor-manifest.json
+
+#### Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.AppleSingle
+
+#### Windows system files
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+#### SublimeText project files
+*.sublime-workspace
+/storage/*.key
+
+#### PHPStorm files
+.idea/
+
+#### VS Code files
+.vscode
+
+#### SASS Ignores - "Sassy CSS" http://sass-lang.com/
+*.sass-cache
+
+#### Large binary files
+*.mov
+*.mp4
+*.fla
+*.swf
+
+#### Backend
+/vendor
+/.env
+/.php_cs.cache
+
+#### Project Specific:
